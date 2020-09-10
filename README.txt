@@ -1,0 +1,1 @@
+I created a responsive shopping cart with PHP, a simple MySQL database, and Bootstrap CSS. Implemented sessions in PHP to store our product data from submitted form GET and POST variables and present the data under the Order Details page. I also created a numeric array to keep track of the keys and match them with product ids in our cart.
